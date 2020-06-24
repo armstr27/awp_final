@@ -1,4 +1,4 @@
-# genki-sentence-practice
+# vuetify-tutorial
 
 ## Project setup
 ```

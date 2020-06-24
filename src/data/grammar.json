@@ -1,0 +1,197 @@
+{
+	"chapters": [
+		{
+			"number": 6,
+			"points": [
+				{"name": "Te-form"},
+				{"name": "～てください"},
+				{"name": "～てもいいです"},
+				{"name": "～てはいけません"},
+				{"name": "Describing two activities (Ex. おきて、たべました）"},
+				{"name": "～から"},
+				{"name": "～ましょうか"}
+			]
+		},
+		{
+			"number": 7,
+			"points": [
+				{"name": "～ている"},
+				{"name": "ＡさんはＸがＹ（Ex. スーさんは目が起きい）"},
+				{"name": "Te-form for joining sentences"},
+				{"name": "Verb stem + に行く/来る/etc"},
+				{"name": "Counting words"}
+			]
+		},
+		{
+			"number": 8,
+			"points": [
+				{"name": "Short forms"},
+				{"name": "Informal speech"},
+				{"name": "と思います"},
+				{"name": "と言っていました"},
+				{"name": "ないでください"},
+				{"name": "のが（好き/じょうず/etc)です"},
+				{"name": "が（to emphasize subject)"},
+				{"name": "何か/何も"}
+			]
+		},
+		{
+			"number": 9,
+			"points": [
+				{"name": "Past tense short form"},
+				{"name": "Qualifying nouns with adjectives"},
+				{"name": "まだ～ていません"},
+				{"name": "～から"}
+			]
+		},
+		{
+			"number": 10,
+			"points": [
+				{"name": "Comparison between two items"},
+				{"name": "Comparison among three or more items"},
+				{"name": "Adjective/Noun + の"},
+				{"name": "つもり"},
+				{"name": "adjective + なる"},
+				{"name": "Question word + か/も"},
+				{"name": "で (Means of transportation/Instrument used)"}
+			]
+		},
+		{
+			"number": 11,
+			"points": [
+				{"name": "～たい"},
+				{"name": "～たり～たりする"},
+				{"name": "～ことがある"},
+				{"name": "noun A や noun B"}
+			]
+		},
+		{
+			"number": 12,
+			"points": [
+				{"name": "～んです"},
+				{"name": "～すぎる"},
+				{"name": "～ほうがいいです"},
+				{"name": "～ので"},
+				{"name": "～なければいけません/～なきゃいけません"},
+				{"name": "～でしょう"}
+			]
+		},
+		{
+			"number": 13,
+			"points": [
+				{"name": "Potential verb"},
+				{"name": "～し"},
+				{"name": "～そうです（It looks like...)"},
+				{"name": "～てみる"},
+				{"name": "なら"},
+				{"name": "Frequency"}
+			]
+		},
+		{
+			"number": 14,
+			"points": [
+				{"name": "ほしい"},
+				{"name": "～かもしれません"},
+				{"name": "あげる/くれる/もらう"},
+				{"name": "～たらどうですか"},
+				{"name": "number + も"},
+				{"name": "number + しか"}
+			]
+		},
+		{
+			"number": 15,
+			"points": [
+				{"name": "Volitional form"},
+				{"name": "Volitional form + と思っています"},
+				{"name": "～ておく"},
+				{"name": "Using sentences to qualify nouns"}
+			]
+		},
+		{
+			"number": 16,
+			"points": [
+				{"name": "～てあげる/～てくれる/～てもらう"},
+				{"name": "～ていただけませんか/～てくれませんか/～てくれない"},
+				{"name": "～といい"},
+				{"name": "～時"},
+				{"name": "～てすみませんでした/～てごめん"}
+			]
+		},
+		{
+			"number": 17,
+			"points": [
+				{"name": "～そうです（I hear）"},
+				{"name": "～って"},
+				{"name": "～たら"},
+				{"name": "～なくてもいいです"},
+				{"name": "～みたいです"},
+				{"name": "～前に"},
+				{"name": "～てから"}
+			]
+		},
+		{
+			"number": 18,
+			"points": [
+				{"name": "Transitive Verb"},
+				{"name": "Intransitive Verb"},
+				{"name": "～てしまう"},
+				{"name": "～と"},
+				{"name": "～ながら"},
+				{"name": "～ばよかったです"}
+			]
+		},
+		{
+			"number": 19,
+			"points": [
+				{"name": "Honorific verb"},
+				{"name": "お～ください"},
+				{"name": "～てくれてありがとう"},
+				{"name": "～てよかったです"},
+				{"name": "～はずです"}
+			]
+		},
+		{
+			"number": 20,
+			"points": [
+				{"name": "Extra-modest expression"},
+				{"name": "Humble expression"},
+				{"name": "～ないで"},
+				{"name": "Questions within larger sentences"},
+				{"name": "～という～"},
+				{"name": "～やすい/～にくい"}
+			]
+		},
+		{
+			"number": 21,
+			"points": [
+				{"name": "Passive sentences"},
+				{"name": "～てある"},
+				{"name": "～間に"},
+				{"name": "Adjective + する"},
+				{"name": "～てほしい"}
+			]
+		},
+		{
+			"number": 22,
+			"points": [
+				{"name": "Causative sentences"},
+				{"name": "Causative + あげる/くれる"},
+				{"name": "Verb stem + なさい"},
+				{"name": "～ば"},
+				{"name": "～のに"},
+				{"name": "～のような/～のように"}
+			]
+		},
+		{
+			"number": 23,
+			"points": [
+				{"name": "Causative-passive sentences"},
+				{"name": "～ても"},
+				{"name": "～ことにする"},
+				{"name": "～ことにしている"},
+				{"name": "～まで"},
+				{"name": "～方"}
+			]
+		}
+	]
+}
