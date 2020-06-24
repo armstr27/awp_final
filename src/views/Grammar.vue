@@ -31,6 +31,7 @@
         <Chapter v-bind:chapter="chapter" v-on:select-point="updatePointList"/>
       </div>
     </div>
+
   </div>
 </template>
 
@@ -126,11 +127,16 @@ export default {
     margin-top: 25vh;
     margin-left: 15vw;
     margin-right: 15vw;
+    margin-bottom: 20vh;
 
     display: grid;
     grid-template-columns: 30vw 30vw 30vw;
     grid-gap: 10px;
     justify-content: space-around;
     align-items: center;
+  }
+
+  .link {
+    color: yellow;
   }
 </style>

@@ -5,6 +5,11 @@
 <!--      <router-link to="/practice">Practice Writing</router-link>-->
 <!--    </div>-->
     <router-view/>
+      <v-app-bar fixed bottom style="background:#062a37">
+          <router-link class="link" to="/">Practice</router-link>
+          <p class="link">|</p>
+          <router-link class="link" to="/contact">Contact Us</router-link>
+      </v-app-bar>
   </div>
 </template>
 
